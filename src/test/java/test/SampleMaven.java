@@ -47,6 +47,9 @@ public class SampleMaven {
 			}
 			
 			System.out.println("added in eclipse");
+			
+			
+			System.out.println("added in github");
 		}
 		
 		d.quit();
