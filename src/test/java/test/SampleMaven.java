@@ -50,6 +50,8 @@ public class SampleMaven {
 			
 			
 			System.out.println("added in github");
+			
+			System.out.println("one more line is added in eclipse");
 		}
 		
 		d.quit();
