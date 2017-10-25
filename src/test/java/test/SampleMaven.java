@@ -45,6 +45,8 @@ public class SampleMaven {
 			d.get("https://www.google.com");
 			links=d.findElements(By.tagName("a"));
 			}
+			
+			System.out.println("added in eclipse");
 		}
 		
 		d.quit();
