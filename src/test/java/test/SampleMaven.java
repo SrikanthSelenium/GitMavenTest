@@ -23,12 +23,13 @@ public class SampleMaven {
 	public void test() throws InvalidFormatException, IOException
 	{
 		d=new FirefoxDriver();
-		File file = new File("E:\\EclipseNeon\\maven-test-artifact\\src\\test\\java\\Book1.xlsx");
+	/*	File file = new File("E:\\EclipseNeon\\maven-test-artifact\\src\\test\\java\\Book1.xlsx");
 		FileInputStream fis = new FileInputStream(file);
 		Workbook book = WorkbookFactory.create(file);
 		Sheet sheet = book.getSheet("Sheet1");
 		int rows = sheet.getLastRowNum();
 		int cols = sheet.getRow(0).getLastCellNum();
+		*/
 		
 		System.out.println(rows+" "+cols);
 		
