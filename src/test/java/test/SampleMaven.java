@@ -31,7 +31,7 @@ public class SampleMaven {
 		int cols = sheet.getRow(0).getLastCellNum();
 		*/
 		
-		System.out.println(rows+" "+cols);
+	//	System.out.println(rows+" "+cols);
 		
 		System.out.println("TestNG run success");
 		
