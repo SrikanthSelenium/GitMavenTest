@@ -57,7 +57,8 @@ public class SampleMaven {
 		
 		d.quit();
 		
-		System.out.println("webhook is configured and see build is triggered");
+		System.out.println("webhook is configured and see build is triggered line 1");
+		System.out.println("webhook is configured and see build is triggered line 2");
 		
 		
 	}
