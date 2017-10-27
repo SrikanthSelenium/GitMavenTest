@@ -57,7 +57,7 @@ public class SampleMaven {
 		
 		d.quit();
 		
-		System.out.println("Line added to test github webhook");
+		System.out.println("webhook is configured");
 		
 		
 	}
